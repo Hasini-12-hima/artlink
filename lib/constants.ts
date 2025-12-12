@@ -1,0 +1,17 @@
+export const ART_CATEGORIES = [
+  "Painting",
+  "Photography",
+  "Digital Art",
+  "Sculpture",
+  "Illustration",
+  "Crafts",
+  "Mandala Art",
+  "Watercolor Art",
+  "Calligraphy",
+  "Typography Art",
+  "Wall Painting",
+  "Portrait Art",
+  "Canvas Art",
+  "Sticker Design",
+  "Illustrations",
+]
